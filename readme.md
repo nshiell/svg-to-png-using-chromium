@@ -9,9 +9,9 @@ It also converts handcoded SVG markup to PNG
 It uses Chromium to perform the SVG render and saves it
 
 
-To install:
+## To install:
 * You will need Chrome or Chromium
 * You will need Python's Selenium drivers to make this work
 
-To Run:
+## To Run:
 `./svg-to-png-using-chromium.py $FILE_PATH`
