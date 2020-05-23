@@ -1,7 +1,9 @@
 # Convert SVGs to PNGs
 
 A script to convert SVG files to PNG format
+
 This script preserves base64 encoded image data
+
 It also converts handcoded SVG markup to PNG
 
 It uses Chromium to perform the SVG render and saves it
